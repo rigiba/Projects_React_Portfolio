@@ -4,7 +4,7 @@ import React from 'react';
 const Footer = ({fecha}) => 
 
 <footer>
-( 'Derechos reservados {fecha} -- Richard');
+( '*** Derechos reservados {fecha} -- Richard ***');
 
 </footer>
  

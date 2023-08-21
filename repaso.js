@@ -1,3 +1,8 @@
+const prueba = 'Pasear al perro';
+export default prueba
+
+
+
 // const persona = name => `El nombre es ${name}`
 
 // const nombres = persona('Juan Roberto')
@@ -87,3 +92,6 @@
 
 
 //----->Promises
+
+
+
